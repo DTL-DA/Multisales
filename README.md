@@ -1,6 +1,6 @@
 # Multisales
-pagina web  de e-commerce llamada MultiSales. 
-pagina web  de e-commerce llamada MultiSales. La web debe tener:
+Página web  de e-commerce llamada MultiSales. 
+La web debe tener:
 •	Un catálogo público con búsqueda de productos, tarjetas con imagen, nombre, descripción y precio, y la opción de seleccionar múltiples productos para añadirlos al carrito de una sola vez.
 •	Un carrito de compras persistente con un drawer lateral que muestre los productos, cantidades, total y un botón para ir al checkout.
 •	Una página de checkout que muestre el resumen del pedido y permita confirmar la compra.
